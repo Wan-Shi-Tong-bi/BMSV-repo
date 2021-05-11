@@ -1,0 +1,13 @@
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PWM\PWM\bin\Debug\libadx.ocx
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PWM\PWM\bin\Debug\PWM.exe.config
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PWM\PWM\bin\Debug\PWM.exe
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PWM\PWM\bin\Debug\PWM.pdb
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PWM\PWM\obj\Debug\PWM.csprojAssemblyReference.cache
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PWM\PWM\obj\Debug\PWM.Form1.resources
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PWM\PWM\obj\Debug\PWM.Properties.Resources.resources
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PWM\PWM\obj\Debug\PWM.csproj.GenerateResource.cache
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PWM\PWM\obj\Debug\PWM.csproj.CoreCompileInputs.cache
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PWM\PWM\obj\Debug\PWM.exe
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PWM\PWM\obj\Debug\PWM.pdb
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PWM\PWM\obj\Debug\Interop.LIBADX.dll
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PWM\PWM\obj\Debug\PWM.csproj.ResolveComReference.cache

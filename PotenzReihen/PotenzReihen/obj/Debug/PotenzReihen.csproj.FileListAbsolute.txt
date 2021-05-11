@@ -1,0 +1,10 @@
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PotenzReihen\PotenzReihen\bin\Debug\PotenzReihen.exe.config
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PotenzReihen\PotenzReihen\bin\Debug\PotenzReihen.exe
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PotenzReihen\PotenzReihen\bin\Debug\PotenzReihen.pdb
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PotenzReihen\PotenzReihen\obj\Debug\PotenzReihen.csprojAssemblyReference.cache
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PotenzReihen\PotenzReihen\obj\Debug\PotenzReihen.Form1.resources
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PotenzReihen\PotenzReihen\obj\Debug\PotenzReihen.Properties.Resources.resources
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PotenzReihen\PotenzReihen\obj\Debug\PotenzReihen.csproj.GenerateResource.cache
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PotenzReihen\PotenzReihen\obj\Debug\PotenzReihen.csproj.CoreCompileInputs.cache
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PotenzReihen\PotenzReihen\obj\Debug\PotenzReihen.exe
+C:\Users\agaub\Documents\HTL\4M\Biomedizinische Signalverarbeitung\Programme\PotenzReihen\PotenzReihen\obj\Debug\PotenzReihen.pdb
