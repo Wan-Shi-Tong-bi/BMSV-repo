@@ -12,10 +12,10 @@ namespace PWM
 {
     public partial class Form1 : Form
     {
-        private const int GroupA = 1;
+        private const int GroupA = 2;
         private const int GroupB = 2;
         private const int GroupC = 3;
-        private const int Line0 = 0;
+        private const int Line0 = 1;
 
         const int cAnalogIn1 = 1;
         const int cRange = 0; //Full Range
@@ -114,7 +114,21 @@ namespace PWM
             double TemSensorTemperature = 63.24 * TemSensorResistor - 103.68;
             lblCurrent.Text = TemSensorTemperature.ToString("#0.0 °C");
 
+            // error signal Regeldifferenz
+            double errorSignal = trbSetTemperature.Value - TemSensorTemperature;
 
+            // acuating variable Stellgröße
+            double k_pr = 10; // Proportionalbeiwert
+            double actuatingVariable = k_pr * errorSignal;
+
+            //Heating on on/off
+            // if ( actuatingVariable < 0) heating = true; else heating = false;
+
+            // fan
+            actuatingVariable = Math.Abs(actuatingVariable);
+            actuatingVariable = Math.Min(100, actuatingVariable);
+
+            trbPWM.Value = (int) actuatingVariable;
         }
     }
 }
